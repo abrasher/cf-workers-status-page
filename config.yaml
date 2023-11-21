@@ -26,7 +26,7 @@ monitors:
 
   - id: overseerr
     name: request.brasher.ca
-    description: 'Built for anything connected to the Internet.'
+    description: 'Request Content for Media Server'
     url: 'https://request.brasher.ca'
     method: GET
     expectStatus: 200
@@ -34,7 +34,7 @@ monitors:
 
   - id: plex
     name: app.plex.tv
-    description: 'Built for anything connected to the Internet.'
+    description: 'Plex'
     url: 'https://app.plex.tv'
     method: GET
     expectStatus: 200
